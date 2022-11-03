@@ -1,0 +1,9 @@
+#highscoreList{
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 4rem;
+}
+.highscores{
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+}
